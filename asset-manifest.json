@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lmu-csmi-2021-Geo/static/css/main.07aa54cb.css",
+    "main.js": "/lmu-csmi-2021-Geo/static/js/main.70876e1e.js",
+    "index.html": "/lmu-csmi-2021-Geo/index.html",
+    "main.07aa54cb.css.map": "/lmu-csmi-2021-Geo/static/css/main.07aa54cb.css.map",
+    "main.70876e1e.js.map": "/lmu-csmi-2021-Geo/static/js/main.70876e1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07aa54cb.css",
+    "static/js/main.70876e1e.js"
+  ]
+}
